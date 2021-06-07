@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5444/cats_api
+    username: postgres
+    password: root
+server:
+  port : 8054
